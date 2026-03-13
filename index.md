@@ -10,4 +10,4 @@ No analytics, tracking, or personal data collection is performed.
 
 If you have any questions, please contact:
 
-oleksandrgalamutko@gmail.com
+mrgaleks@gmail.com
