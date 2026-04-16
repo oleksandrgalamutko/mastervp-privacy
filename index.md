@@ -1,48 +1,62 @@
 # Privacy Policy
 ### Master VP (Master Voyage Planner)
 
-Last updated: March 2026
+Last updated: April 2026
 
-Master VP ("the App") respects your privacy. The application is designed to operate primarily on your device and does not collect personal data from users.
+Master VP ("the App") respects your privacy. The App is designed to operate primarily on your device, with core voyage data stored locally.
 
-1. Data Collection
+1. Data Collection and Use
+Master VP does not run a developer-operated user account system and does not collect personal profiles for advertising purposes.
 
-Master VP does not collect, store, or transmit personal information, analytics data, or usage data to the developer or any third parties.
+Core voyage planning data you enter (such as ports, voyage legs, speeds, and ETA-related settings) is stored locally on your device.
 
-The App does not track users and does not use advertising identifiers.
+The App does not use advertising identifiers and does not perform cross-app tracking.
 
-2. Local Data Storage
+2. Location Services (Voyage Monitoring)
+When you enable Voyage Monitoring, the App may access device location data, including:
 
-All voyage planning data entered by the user (such as ports, voyage legs, and ETA calculations) is stored locally on the user's device using the iOS local data storage system.
+latitude and longitude,
+speed over ground,
+course,
+timestamp.
+This data is used to calculate route monitoring information (distance and ETA) inside the App.
 
-This information is not transmitted to external servers.
+Location access is requested only with your permission and can be disabled at any time in iOS Settings.
 
-3. Calendar Integration
+3. Local Data Storage
+Voyage planning and monitoring settings are stored locally using iOS local storage technologies.
 
-If the user chooses to export ETA reports to the device calendar, the App creates calendar events locally on the device using Apple's system calendar APIs.
+Master VP does not provide cloud sync or remote account storage by default.
 
-The App does not read, transmit, or store calendar data outside of the user's device.
+4. Calendar Integration
+If you choose to export ETA reports to Calendar, the App creates events using Apple Calendar APIs on your device.
 
-4. Notifications
+Master VP does not store or transmit your calendar data to developer servers.
 
-The App may schedule local notifications on the device to remind the user about upcoming ETA report deadlines.
+5. Notifications
+The App may schedule local notifications (for example, ETA/report reminders) on your device.
 
-These notifications are generated and managed entirely on the user's device.
+These notifications are generated and managed locally on-device.
 
-5. In-App Purchases
+6. Network Requests and Third-Party Data Sources
+Some optional features may request data from external maritime/weather/map data providers (for example, when importing route-related data or requesting forecast information).
 
-The App does not offer optional in-app purchases to unlock additional features.
+In such cases, only the technical data required for that request is transmitted.
 
-6. Third-Party Services
+Master VP does not use third-party advertising SDKs or third-party analytics SDKs for user tracking.
 
-Master VP does not use third-party analytics services, advertising networks, or tracking technologies.
+7. In-App Purchases
+Master VP does not offer optional in-app purchases to unlock additional functionality.
 
-7. Changes to This Privacy Policy
+8. Data Sharing
+Master VP does not sell personal data.
 
-This Privacy Policy may be updated from time to time. When changes occur, the "Last updated" date at the top of this page will be revised.
+Data may only be shared when technically required to fulfill a user-initiated feature request (for example, requesting external forecast/import data).
 
-8. Contact
+9. Changes to This Privacy Policy
+This Privacy Policy may be updated from time to time. If changes are made, the “Last updated” date will be revised.
 
-If you have any questions regarding this Privacy Policy, you may contact the developer at:
+10. Contact
+If you have questions about this Privacy Policy, you can contact:
 
 mrgaleks@gmail.com
